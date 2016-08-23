@@ -1,14 +1,29 @@
+name: Lola's Photography
+favicon: null
 layout_spectrum: 0.2275985
+typography_spectrum: 0.07347666
+title: Beauty from the eye of the beholder
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8046594
-  brandStrength: 0.3049741
-  lightness: 0.239546
-  rhythmicContrast: 0.969424
   brandColors:
     - '#A690A4'
     - '#B68F9D'
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-typography_spectrum: 0.07347666
-name: Lola's Photography
+  brandStrength: 0.3049741
+  lightness: 0.239546
+  saturation: 0.8046594
+  rhythmicContrast: 0.969424
+purpose: []
